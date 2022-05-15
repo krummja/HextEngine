@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28b5b0de73484fff8d5b53b28d0126f8, type: 3}
+  m_Name: SourceCodeProSettings
+  m_EditorClassIdentifier: 
+  FontMapping: {fileID: 4900000, guid: 0496e0ed0af0c914e955dadac36fe312, type: 3}
+  FontMaterial: {fileID: 2100000, guid: 43f4a1196e928b441895d3b6d3519e19, type: 2}
+  HeightScale: 1
+  FontType: 0
+  TextureSize: 960
+  GridSize: 16
+  Bleed: 3
+  GlyphWidth: 34
+  GlyphHeight: 72
